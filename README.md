@@ -15,14 +15,3 @@
 # 🟢 INITIALIZING PROFILE...
 
 ---
-
-# 🧠 ABOUT ME
-
-```bash
-$ whoami
-> Developer passionate about building powerful applications
-> Interested in Cybersecurity and system architecture
-> Loves open source and solving complex problems
-> Currently learning advanced backend and security systems.
-
-
