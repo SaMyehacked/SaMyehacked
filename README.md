@@ -1,5 +1,5 @@
 <p align="center">
-<img src="YOUR_IMAGE_LINK" width="180" style="border-radius:50%; border:4px solid #00ff9c;" />
+<img src="samyeimagegit.jpeg" width="180" style="border-radius:50%; border:4px solid #00ff9c;" />
 </p>
 
 <h1 align="center">
