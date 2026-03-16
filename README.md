@@ -1,6 +1,7 @@
 <div align="center">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=230&section=header&text=Md.%20SABRI%20HASSAN%20SAMYE&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 <img src="https://github.com/SaMyehacked/SaMyehacked/blob/eae77fa9e653d6efb6e884bb383919c28430d41c/samyeimagegit.jpeg" />
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=900&lines=Cyberpunk+Full+Stack+Developer;MERN+%7C+Next.js+%7C+AI+Engineer;Code+Like+a+Hacker;Build+Like+a+Visionary;Welcome+to+My+Digital+Empire" />
 
